@@ -1,0 +1,24 @@
+{
+    "id": "14683186",
+    "path": "~/Documents/GitHub/tv-covid/tvcsd-covid-viewer/app.R",
+    "project_path": "tvcsd-covid-viewer/app.R",
+    "type": "r_source",
+    "hash": "1804300577",
+    "contents": "",
+    "dirty": false,
+    "created": 1614015318621.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "39,12",
+        "scrollLine": "12"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1614016957,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1614016957811,
+    "read_only": false,
+    "read_only_alternatives": []
+}
